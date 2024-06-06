@@ -70,6 +70,6 @@ School of Electronic and Information Engineering, South China University of Tech
 ## Citation
 Please cite our paper if you find the codes and datasets are useful for your research.
 
-[1] Yanxiong Li, Wenchang Cao, Jialong Li, Wei Xie, and Qianhua He, "Fully Few-shot Class-incremental Audio Classification Using Expandable Dual-embedding Extractor," in Proc. of INTERSPEECH, Kos, Greece, 01-05 Sep., 2024.
+[1] Yongjie Si, Yanxiong Li, Jialong Li, Jiaxin Tan, and Qianhua He, "Fully Few-shot Class-incremental Audio Classification Using Expandable Dual-embedding Extractor," in Proc. of INTERSPEECH, Kos, Greece, 01-05 Sep., 2024.
 
 
